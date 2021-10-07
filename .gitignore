@@ -1,1 +1,4 @@
 Object_Detection_Files/
+*.png
+*.jpg
+*.jpeg
